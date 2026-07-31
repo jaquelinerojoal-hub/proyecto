@@ -1,20 +1,20 @@
 # proyecto
 # Equipo de trabajo
 
-## Proyecto
+##Sistema de biblioteca escolar
 
-- Nombre provisional:
-- Organización:
-- Fecha:
+- Nombre provisional:BiblioTech
+- Organización:LiceoAvb
+- Fecha:31-07-26
 
 ## Integrantes y roles
 
 | Integrante | Rol principal | Fortalezas | Responsabilidad inicial |
 |---|---|---|---|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+|jaqueline |Programadora| | |
+| lucy|Analista|Organización y análisis|Levantar requerimientos y diseñar los casos de uso|
+|paloma |Documentador|Redacción y organización|Elaborar la documentación y preparar la presentación|
+|krishna |Tester|Atención al detalle|Probar el sistema y reportar errores|
 | | | | |
 
 ## Normas internas
