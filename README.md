@@ -37,8 +37,8 @@
 
 | Integrante | Confirmación |
 |---|---|
-| | |
-| | |
-| | |
-| | |
-| | |
+|jaqueline| |
+|lucy| |
+|paloma| |
+|krishna| |
+|jhzsmin| |
