@@ -28,18 +28,18 @@
 
 ## Compromisos
 
-- [ ] Todos tendrán tareas verificables.
-- [ ] Todos participarán en la presentación.
+- [ ✓] Todos tendrán tareas verificables.
+- [ ✓] Todos participarán en la presentación.
 - [ ] Se utilizarán issues y pull requests.
-- [ ] Se respetarán los datos de la organización.
-- [ ] Se registrará el uso importante de IA.
+- [ ✓] Se respetarán los datos de la organización.
+- [✓ ] Se registrará el uso importante de IA.
 
 ## Aprobación del equipo
 
 | Integrante | Confirmación |
 |---|---|
-|jaqueline| |
-|lucy| |
-|paloma| |
-|krishna| |
-|jhzsmin| |
+|jaqueline| ✓|
+|lucy|✓ |
+|paloma| ✓|
+|krishna|✓ |
+|jhassmin|✓ |
