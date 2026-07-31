@@ -19,11 +19,12 @@
 
 ## Normas internas
 
-- Canal de comunicación:
-- Horario de coordinación:
-- Forma de tomar decisiones:
-- Procedimiento ante inasistencia:
-- Procedimiento ante tareas atrasadas:
+- Canal de comunicación: Discpord - Whats App
+- Horario de coordinación: fines de semana y horarios libres de lunes a viernes.
+- Forma de tomar decisiones: cosultar al lider y demas integrantes, gana por mayoria
+- Procedimiento ante inasistencia: se qeuda sin desayuno y almuerzo.
+- Procedimiento ante tareas atrasadas: se le roba la cuenta del roblox
+
 
 ## Compromisos
 
