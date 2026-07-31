@@ -11,11 +11,11 @@
 
 | Integrante | Rol principal | Fortalezas | Responsabilidad inicial |
 |---|---|---|---|
-|jaqueline |Programadora| | |
+|jaqueline |Programadora|Java, bases de datos y resolución de problemas|Desarrollar el sistema y la base de datos|
 | lucy|Analista|Organización y análisis|Levantar requerimientos y diseñar los casos de uso|
 |paloma |Documentador|Redacción y organización|Elaborar la documentación y preparar la presentación|
 |krishna |Tester|Atención al detalle|Probar el sistema y reportar errores|
-| | | | |
+|jhazmin|Diseñador|Creatividad y diseño|Diseñar la interfaz del sistema|
 
 ## Normas internas
 
